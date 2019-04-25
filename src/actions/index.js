@@ -1,6 +1,11 @@
 export const INCREMENT = 'INCREMENT';
 export const DECREMENT = 'DECREMENT';
 
+
+
+// Step 4) BUILD ACTION Creators
+
+
 // Our action creators will return
 // an action packet that our reducer will
 // receive. What does the action packet look like?

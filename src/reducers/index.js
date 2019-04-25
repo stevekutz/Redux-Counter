@@ -1,5 +1,8 @@
 import { INCREMENT, DECREMENT } from '../actions';
 
+// Step 2) Create Reducers
+
+
 const initialState = {
   count: 1000
 };

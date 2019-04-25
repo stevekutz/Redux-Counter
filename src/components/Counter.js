@@ -2,6 +2,10 @@ import React, { Component } from "react";
 import { connect } from 'react-redux';
 import { increment, decrement } from '../actions';
 
+
+// Step 3) Build Containers
+
+
 class Counter extends Component {
     incrementIfOdd = () => {
         // Stretch Problem: Implement an increment function that
