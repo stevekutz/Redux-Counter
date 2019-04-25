@@ -13,6 +13,7 @@ export const increment = () => {
   // Fill in this function
   return {
     type: INCREMENT,
+    payload: null,    // no input provided, no payload not necessary
   }
 
 };
@@ -21,6 +22,7 @@ export const decrement = () => {
   // Fill in this function
   return {
     type: DECREMENT,
+    payload: null,
   }
 
 };
