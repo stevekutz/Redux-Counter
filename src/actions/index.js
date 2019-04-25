@@ -11,10 +11,10 @@ export const DECREMENT = 'DECREMENT';
 
 export const increment = () => {
   // Fill in this function
-     // !!!!    me >> NO PAYLOAD here, no data to feed into store
+
 };
 
 export const decrement = () => {
   // Fill in this function
-  // !!!!    me >> NO PAYLOAD here, no data to feed into store
+
 };
